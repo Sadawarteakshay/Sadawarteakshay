@@ -16,6 +16,7 @@
 - BE in Computer Engineering (Pune Institute of Computer Technology)
 
 🚀 **Experience**:
+- Junior Product Manager at BITs Software.
 - Graduate Software Developer at California State University, Fullerton.
 - Systems Engineer at Tata Consultancy Services
 -  Founder at Gyaanibuddy
